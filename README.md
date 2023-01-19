@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hej hej! 👋
 
 <!--
 **ligo2200/ligo2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Mitt namn är Linda och jag läser Webbutvecklingsprogrammet på Mittuniversitetet i Sundsvall. 
+Jag har, efter lite mer än en termin på programmet, lärt mig väldigt mycket och ser framemot resterande tid och inlärning!
+
+Allt gott!
+/Linda
+
+Kontakta mig på e-post: ligo2200@student.miun.se
+
