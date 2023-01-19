@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mitt namn är Linda och jag läser Webbutvecklingsprogrammet på Mittuniversitetet i Sundsvall. 
+Mitt namn är **Linda** och jag läser _Webbutvecklingsprogrammet_ på Mittuniversitetet i Sundsvall.   
 Jag har, efter lite mer än en termin på programmet, lärt mig väldigt mycket och ser framemot resterande tid och inlärning!
 
-Allt gott!
+Allt gott!  
 /Linda
 
 Kontakta mig på e-post: ligo2200@student.miun.se
