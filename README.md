@@ -1,4 +1,4 @@
-### Hej hej! 👋
+### Hej hej! 
 
 <!--
 **ligo2200/ligo2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Mitt namn är **Linda** och jag läser _Webbutvecklingsprogrammet_ på Mittuniversitetet i Sundsvall.   
-Jag har, efter lite mer än en termin på programmet, lärt mig väldigt mycket och ser framemot resterande tid och inlärning!
+Det är kontot fungerar främst som ett skolkonto där jag kommer att lägga upp mina skolarbeten.
 
 Allt gott!  
 /Linda
